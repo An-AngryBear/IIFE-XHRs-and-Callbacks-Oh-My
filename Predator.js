@@ -19,8 +19,8 @@ var Predator = (function () {
       loader.open("GET", "herbivores.json");
       loader.send();
       loader.addEventListener("load", function () {
-          herbivores = JSON.parse(this.responseText);
-          callbackToInvoke(herbivores);
+        herbivores = JSON.parse(this.responseText);
+        callbackToInvoke(herbivores);
       });
     }
   }
