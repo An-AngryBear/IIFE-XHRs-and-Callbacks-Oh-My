@@ -1,0 +1,17 @@
+{
+	"Herbivores" : [
+		{
+			"type" : "goat"
+		},
+		{
+			"type" : "goose"
+		},
+		{
+			"type" : "llama"
+		},
+		{
+			"type" : "beaver"
+		}
+
+	]
+}

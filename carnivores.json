@@ -1,0 +1,17 @@
+{
+	"Carnivores" : [
+		{
+			"type" : "wolf"
+		},
+		{
+			"type" : "cheetah"
+		},
+		{
+			"type" : "tiger"
+		},
+		{
+			"type" : "lion"
+		}
+
+	]
+}
